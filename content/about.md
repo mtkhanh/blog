@@ -23,7 +23,7 @@ Mai Trung Khanh, a 23 year old embedded software developer with experience in _e
 + Software Testing Engineer
   - __Rightware Oy__ | _JUN 2017 - present_
   - Tasks : Developing testing and test automation of the platform integration, including integration to the CI/CD system.
-  - Technical experience : C++, C#, Python, Robotframework, CI/CD.
+  - Technical  : C++, C#, Python, Robotframework, CI/CD.
 
 ### Skills
 
